@@ -1,2 +1,1 @@
-# uber-seal-ui
-UI for Uber Seal game
+![usl](https://user-images.githubusercontent.com/19824877/74358153-96d94800-4d86-11ea-9ff0-07017e07efd0.png)
