@@ -1,0 +1,20 @@
+{
+  "name": "uber-seal-ui",
+  "version": "1.0.0",
+  "description": "UI for Uber Seal game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJAlferes/uber-seal-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TJAlferes/uber-seal-ui/issues"
+  },
+  "homepage": "https://github.com/TJAlferes/uber-seal-ui#readme"
+}
