@@ -1,7 +1,7 @@
 {
   "name": "uber-seal-ui",
   "version": "1.0.0",
-  "description": "UI for Uber Seal game",
+  "description": "UI for Uber Seal",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
